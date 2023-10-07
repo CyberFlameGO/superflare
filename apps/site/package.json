@@ -45,7 +45,7 @@
     "@types/react-dom": "^18.0.11",
     "concurrently": "^7.6.0",
     "eslint": "8.26.0",
-    "postcss": "^8.4.21",
+    "postcss": "^8.4.31",
     "prettier": "^2.7.1",
     "prettier-plugin-tailwindcss": "^0.1.13",
     "tsconfig": "workspace:*",
